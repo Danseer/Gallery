@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gallery</string>
+    <string name="action_latest_public_photos">latest public photos</string>
+    <string name="action_popular_photos">popular photos</string>
+    <string name="action_find_photos">find photos</string>
+
+</resources>
